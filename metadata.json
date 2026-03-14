@@ -1,0 +1,5 @@
+{
+  "name": "Pomodoro Focus Timer",
+  "description": "A clean, minimal Pomodoro timer with customizable sessions, statistics tracking, and a circular progress display.",
+  "requestFramePermissions": ["notifications"]
+}
